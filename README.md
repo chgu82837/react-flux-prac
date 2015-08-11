@@ -1,2 +1,2 @@
 # react-flux-prac
-ReactJS and Flus Practice
+ReactJS and Flux Practice
